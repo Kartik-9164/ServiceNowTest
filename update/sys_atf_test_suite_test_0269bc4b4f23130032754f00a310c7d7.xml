@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_atf_test_suite_test">
+    <sys_atf_test_suite_test action="INSERT_OR_UPDATE">
+        <abort_on_failure>false</abort_on_failure>
+        <order/>
+        <sys_class_name>sys_atf_test_suite_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-31 09:57:26</sys_created_on>
+        <sys_id>0269bc4b4f23130032754f00a310c7d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c8d2b0c74f23130032754f00a310c7ad</sys_name>
+        <sys_package display_value="Test" source="x_160156_test">dadfa8074f23130032754f00a310c7c9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test">dadfa8074f23130032754f00a310c7c9</sys_scope>
+        <sys_update_name>sys_atf_test_suite_test_0269bc4b4f23130032754f00a310c7d7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-31 09:57:26</sys_updated_on>
+        <test display_value="Basic UI Test">67fcab130b01220050192f15d6673a0c</test>
+        <test_suite display_value="My New Test Suite_1">c8d2b0c74f23130032754f00a310c7ad</test_suite>
+    </sys_atf_test_suite_test>
+</record_update>
